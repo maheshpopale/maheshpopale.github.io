@@ -31,11 +31,21 @@ body{
     font-weight: bold;
     text-align: center;
 }
+.about,.skills{
+    padding: 8px;
+    line-height: 30px;
+}
 #title{
     font-weight: bold;
 }
 a{
     color: white;
+}
+.summary{
+    height: 120px;
+    width: 100%;
+    float: left;
+    /* border: 1px solid black; */
 }
 h6{
     font-weight: bold;
